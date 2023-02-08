@@ -16,5 +16,5 @@ In the past few years I've also been:
 I recently open-sourced [the FLamby repository](https://github.com/owkin/FLamby) to provide FL researchers with datasets and tools to come up with better strategies to train Machine Learning in privacy preserving healthcare context.
 If you are interested in Federated Learning do not hesitate to check it out and to add a star if you like it.  
 
-<img src="https://user-images.githubusercontent.com/11030901/217475417-cde40d59-22ad-40d8-96d9-be67fe517820.png" width="480">
+<a href="https://owkin.github.io/FLamby/" title="FLamby API Doc"><img src="https://user-images.githubusercontent.com/11030901/217475417-cde40d59-22ad-40d8-96d9-be67fe517820.png" width="480"></a>
 
