@@ -5,7 +5,7 @@ I recently left my job as Research Team Lead at [Owkin](https://owkin.com/) wher
 I am now experimenting with large-scale machine learning exploring foundation models with various data modalities like time-series, language and genomics data.
 
 
-I am a firm believer in open research and published in top-tier venues such as Nature Medicine (1 paper), Nature Communications (1 paper), NeurIPS (2 papers), ICML (1 paper), MICCAI (1 best paper) and ICIP (1 paper), wrote numerous surveys and technical reports all publicly available ( :arrow_right: [Link to scholar profile](https://scholar.google.com/citations?user=6IFj7SkAAAAJ&hl=en&oi=ao) ) and wrote many publicly available code such as [FLamby](https://github.com/owkin/FLamby) and [FedECA](https://github.com/owkin/fedeca). 
+I am a firm believer in open research and published in top-tier venues such as Nature Medicine (1 paper), Nature Communications (1 paper), NeurIPS (3 papers), ICML (1 paper), MICCAI (1 best paper), Nature Scientific Reports (1 paper), ICIP (1 paper), wrote numerous surveys and technical reports all publicly available ( :arrow_right: [Link to scholar profile](https://scholar.google.com/citations?user=6IFj7SkAAAAJ&hl=en&oi=ao) ) and wrote many publicly available code such as [FLamby](https://github.com/owkin/FLamby) and [FedECA](https://github.com/owkin/fedeca). 
 
 In the past few years I've also been:
 
